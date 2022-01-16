@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">recycler_view</string>
+    <string-array name="network">
+        <item>GitHub</item>
+        <item>Instagram</item>
+        <item>Twitter</item>
+        <item>VK</item>
+        <item>Telegram</item>
+        <item>W/A</item>
+        <item>Facebook</item>
+        <item>TikTok</item>
+        <item>Gmail</item>
+        <item>YouTube</item>
+    </string-array>
+
+    <string-array name="login">
+        <item>goahead7</item>
+        <item>sophiallka</item>
+        <item>sophku7</item>
+        <item>sofyakuznetsova2000</item>
+        <item>sophiallka7</item>
+        <item>89143386865</item>
+        <item>sofyakuznetsova2000</item>
+        <item>soph_new</item>
+        <item>sophia.kuznetsova@gmail.com</item>
+        <item>Софья Кузнецова</item>
+
+    </string-array>
+
+</resources>
